@@ -1,0 +1,1 @@
+# gioco-sasso-carta-forbice
