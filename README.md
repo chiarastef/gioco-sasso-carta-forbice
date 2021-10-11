@@ -1,3 +1,2 @@
 # Gioco-sasso-carta-forbice (Rock paper scissors game)
-
-Made with HTML, CSS and JavaScript.
+Project from the course "Corso di introduzione a JavaScript" (Intro to Javascript) on [lacerba.io](https://lacerba.io/).
